@@ -1,11 +1,7 @@
 # Wahyudi Indra Prakoso
 
-<<<<<<< HEAD
 - <wahyudiindraprakoso@gmail.com>
 - (+62) 822 5775 6543
-=======
-- <nooroctaviananwar@gmail.com>
->>>>>>> 5d4d9f38a685dc43dd8d51bc97b3604c975040b7
 - Malang, Indonesia
 - [LinkedIn](https://www.linkedin.com/in/wahyudi-indra-prakoso)
 - [Github](https://github.com/wahyudiindra79)

@@ -6,12 +6,12 @@
 - [LinkedIn](https://www.linkedin.com/in/wahyudi-indra-prakoso)
 - [Github](https://github.com/wahyudiindra79)
 
-I am a Backend Engineer with more than 2 years of professional experience in designing and implement backend business applications such as ERP, E-Commerce, and information system in general. I also have some knowledge in Frontend Engineering
+I am a Backend Engineer with more than 2 years of professional experience in design system and implement backend business applications such as ERP, E-Commerce, and information system in general. I also have interested in Frontend development process.
 
 ## Skills
 
- - Languages: JavaScript/TypeScript, PHP, SQL, C++, Java
- - Technologies: NestJS, GraphQL, Laravel, ReactJS, NextJS, ChakraUI, VueJS, InertiaJS
+ - Languages: JavaScript, TypeScript, PHP, SQL, C++, Java
+ - Technologies: NestJS, RESTful API, GraphQL, Laravel, ReactJS, NextJS, ChakraUI, VueJS, InertiaJS
  - Others: PrismaJS, Vercel, Git, Firebase
 
 ## Education
@@ -26,14 +26,15 @@ I am a Backend Engineer with more than 2 years of professional experience in des
 
 Degetek Studio is a software company that focuses on delivering tech-based solutions for education and business. 
 
- - Implemented backend business applications while working closely with Frontend Engineer and Project Manager.
- - Created API documentation (postman, insomnia, and rest client).
- - Integration of front-end element created by front-end developers.
+ - Implemented and improving ERD given by Tech Lead to the PostgreSQL using Prisma.
+ - Implemented backend business process while working closely with Tech Lead, Frontend Engineer, and PM.
+ - Created API documentation (Postman, Insomnia, and Rest client).
+ - Help Frontend Engineer integrating the backend system.
 
 ### <span>Internship, Elecomp Software House</span> <span>May - Aug 2017</span>
 
- - Develop a company profile using Code Igniter.
- - Integrate the new platform (website) with the database on the old platform (desktop).
+ - Develop a company profile using CodeIgniter.
+ - Integrating the new platform (website) using the database on the old platform (desktop).
  
 ## Projects
 
@@ -51,7 +52,7 @@ Tech stack: NestJS, PrismaJS, NextJS, ChakraUI, React-Query
 
 [knb.kemdikbud.go.id](http://knb.kemdikbud.go.id)
 
-### <span>Robopem Apps and Websites</span> <span>(2020)</span>
+### <span>Robopem Apps and Websites</span> <span>2020</span>
 
 Android Based Interactive media that have various multimedia content helps students learn about Fuel Cell. The Robopem Websites is used for the teacher to monitor the learning activities of the student such a view the courses, manage the classroom member, and view the result of student quiz.
 
@@ -59,7 +60,7 @@ Tech stack: NestJS, PrismaJS, NextJS, ChakraUI
 
 [robopem.com](https://robopem.com)
 
-### <span>Ecommerce</span> <span>(2020)</span>
+### <span>C2G E-Commerce</span> <span>2020</span>
 
 Online selling and buying platform with C2G (Client to Government) System. There are negotiation feature, payment system that integrated with Midtrans, discount system and stock management.
 

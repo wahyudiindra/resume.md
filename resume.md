@@ -1,42 +1,57 @@
 # Wahyudi Indra Prakoso
 
-- <wahyudiindraprakoso@gmail.com>
-- (+62) 822 5775 6543
-- Malang, Indonesia
-- [LinkedIn](https://www.linkedin.com/in/wahyudi-indra-prakoso)
-- [Github](https://github.com/wahyudiindra79)
+-   <wahyudiindraprakoso@gmail.com>
+-   (+62) 822 5775 6543
+-   Malang, Indonesia
+-   [LinkedIn](https://www.linkedin.com/in/wahyudi-indra-prakoso)
+-   [Github](https://github.com/wahyudindra)
 
-I am a Backend Engineer with more than 2 years of professional experience in design system and implement backend business applications such as ERP, E-Commerce, and information system in general. I also have interested in Frontend development process.
+I am a Backend Engineer with more than 3 years of professional experience in design system and implement backend business applications such as ERP, PMS, E-Commerce, and information system in general. I also have interested in Frontend development process.
 
 ## Skills
 
- - Languages: JavaScript, TypeScript, PHP, SQL, C++, Java
- - Technologies: NestJS, RESTful API, GraphQL, Laravel, ReactJS, NextJS, ChakraUI, VueJS, InertiaJS
- - Others: PrismaJS, Vercel, Git, Firebase
+-   Languages: TypeScript, JavaScript, PHP, SQL, C++, Java
+-   Technologies: NestJS, RESTful API, Appwrite, GraphQL, Laravel, ReactJS, NextJS, ChakraUI, VueJS, InertiaJS
+-   Others: PrismaJS, Vercel, Git, Firebase
 
 ## Education
 
 ### <span>Universitas Negeri Malang, Indonesia</span> <span>2014 - 2018</span>
 
- - Bachelor of Arts - BA, Informatics Education 
+-   Bachelor of Arts - BA, Informatics Education
 
 ## Experiences
 
+### <span>Backend (NodeJS) Developer, Glovory Technologies</span> <span>Maret 2022 - Present</span>
+
+Glovory Technologies is a end-to-end digital product agencies headquartered in Riyadh, Saudi Arabia.
+
+-   Help PM for decide on timeline development for projects.
+-   Implemented backend business process while working closely with Analyst and Engineering Team.
+-   Review code from a other Backend Engineer.
+-   Manage redeployment (microservices) on server staging.
+
 ### <span>Backend Engineer, Degetek Studio</span> <span>Oct 2019 - Nov 2021</span>
 
-Degetek Studio is a software company that focuses on delivering tech-based solutions for education and business. 
+Degetek Studio is a software company that focuses on delivering tech-based solutions for education and business.
 
- - Implemented and improving ERD given by Tech Lead to the PostgreSQL using Prisma.
- - Implemented backend business process while working closely with Tech Lead, Frontend Engineer, and PM.
- - Created API documentation (Postman, Insomnia, and Rest client).
- - Help Frontend Engineer integrating the backend system.
+-   Implemented and improving ERD given by Tech Lead to the PostgreSQL using Prisma.
+-   Implemented backend business process while working closely with Tech Lead, Frontend Engineer, and PM.
+-   Created API documentation (Postman, Insomnia, and Rest client).
+-   Help Frontend Engineer integrating the backend system.
 
 ### <span>Internship, Elecomp Software House</span> <span>May - Aug 2017</span>
 
- - Develop a company profile using CodeIgniter.
- - Integrating the new platform (website) using the database on the old platform (desktop).
- 
+-   Develop a company profile using CodeIgniter.
+-   Integrating the new platform (website) using the database on the old platform (desktop).
+
 ## Projects
+
+### <span>Hotel Management System</span> <span>May 2022 - Present</span>
+
+Property Management System that assist hotel owners to manage units and reservation system, which aims to simplify administrative processes and helps officials to monitor the important details such as level of services improvement, increased revenue, and cost reduction.
+
+Tech stack: NestJS, PrismaJS, Appwrite, NextJS
 
 ### <span>Ace Diary Apps</span> <span>2021</span>
 

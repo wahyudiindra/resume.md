@@ -6,13 +6,13 @@
 -   [LinkedIn](https://www.linkedin.com/in/wahyudi-indra-prakoso)
 -   [Github](https://github.com/wahyudindra)
 
-I am a Backend Engineer with more than 3 years of professional experience in design system and implement backend business applications such as ERP, PMS, E-Commerce, and information system in general. I also have interested in Frontend development process.
+I am a Backend Engineer with more than 3 years of professional experience in design system and implement backend business applications such as ERP, PMS, E-Commerce, and information system in general. I eager to learn new technologies and also have interested in end-to-end software development process.
 
 ## Skills
 
--   Languages: TypeScript, JavaScript, PHP, SQL, C++, Java
--   Technologies: NestJS, RESTful API, Appwrite, GraphQL, Laravel, ReactJS, NextJS, ChakraUI, VueJS, InertiaJS
--   Others: PrismaJS, Vercel, Git, Firebase
+-   Languages: TypeScript, JavaScript, Java, PHP, SQL, C++
+-   Technologies: NodeJS, RESTful API, Docker, RabbitMQ, NestJS, GraphQL, Laravel, React/Vue
+-   Others: Git, Firebase, PrismaJS
 
 ## Education
 
@@ -22,14 +22,14 @@ I am a Backend Engineer with more than 3 years of professional experience in des
 
 ## Experiences
 
-### <span>Backend (NodeJS) Developer, Glovory Technologies</span> <span>Maret 2022 - Present</span>
+### <span>Backend Engineer, Glovory Technologies</span> <span>Maret 2022 - Present</span>
 
 Glovory Technologies is a end-to-end digital product agencies headquartered in Riyadh, Saudi Arabia.
 
 -   Help PM for decide on timeline development for projects.
 -   Implemented backend business process while working closely with Analyst and Engineering Team.
 -   Review code from a other Backend Engineer.
--   Manage redeployment (microservices) on server staging.
+-   Manage deployment microservices on server staging.
 
 ### <span>Backend Engineer, Degetek Studio</span> <span>Oct 2019 - Nov 2021</span>
 

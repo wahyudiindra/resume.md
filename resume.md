@@ -10,9 +10,9 @@ I am a Backend Engineer with more than 3 years of professional experience in des
 
 ## Skills
 
--   Languages: TypeScript, JavaScript, Java, PHP, SQL, C++
--   Technologies: NodeJS, RESTful API, Docker, RabbitMQ, NestJS, GraphQL, Laravel, React/Vue
--   Others: Git, Firebase, PrismaJS
+-   Languages: TypeScript, JavaScript, PHP, SQL, C++
+-   Technologies: NodeJS, NestJS, RESTful API, Docker, RabbitMQ, GraphQL, Laravel, React/Vue
+-   Others: Git, PrismaJS, Firebase
 
 ## Education
 

@@ -47,6 +47,12 @@ Degetek Studio is a software company that focuses on delivering tech-based solut
 
 ## Projects
 
+### <span>Maxima Apps and Websites</span> <span>October 2022 - April 2023</span>
+
+Laboratory Management System that makes it easy for patients to choose the type of examination or check up anytime and anywhere. This project must be in sync with existing desktop apps.
+
+Tech stack: NestJS, PrismaJS, NextJS, Flutter
+
 ### <span>Hotel Management System</span> <span>May 2022 - Present</span>
 
 Property Management System that assist hotel owners to manage units and reservation system, which aims to simplify administrative processes and helps officials to monitor the important details such as level of services improvement, increased revenue, and cost reduction.

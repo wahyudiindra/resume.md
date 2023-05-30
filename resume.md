@@ -50,39 +50,34 @@ Degetek Studio is a software company that focuses on delivering tech-based solut
 ### <span>Maxima Apps and Websites</span> <span>October 2022 - April 2023</span>
 
 Laboratory Management System that makes it easy for patients to choose the type of examination or check up anytime and anywhere. This project must be in sync with existing desktop apps.
-
-Tech stack: NestJS, PrismaJS, NextJS, Flutter
+<br> _Tech stack_: NestJS, PrismaJS, NextJS, Flutter
 
 ### <span>Hotel Management System</span> <span>May 2022 - Present</span>
 
 Property Management System that assist hotel owners to manage units and reservation system, which aims to simplify administrative processes and helps officials to monitor the important details such as level of services improvement, increased revenue, and cost reduction.
-
-Tech stack: NestJS, PrismaJS, Appwrite, NextJS
+<br> _Tech stack_: NestJS, PrismaJS, Appwrite, NextJS
 
 ### <span>Ace Diary Apps</span> <span>2021</span>
 
 Android Based Counseling Application that assist Universitas Negeri Malang to facilitate Counseling Guideance for the student.
+<br> _Tech stack_: NestJS, PrismaJS, NextJS, ChakraUI, React-Query
 
-Tech stack: NestJS, PrismaJS, NextJS, ChakraUI, React-Query
+<br>
+<br>
 
 ### <span>Kemitraan Negara Berkembang Scholarship</span> <span>2020 - 2021</span>
 
 Popularly known as KNB Scholarship, is a program offered by the Indonesian Government to prospective international students coming from developing countries to pursue their master's degree in one of the Indonesian universities.
-
-Tech stack: NestJS, PrismaJS, NextJS, ChakraUI, React-Query
-
-[knb.kemdikbud.go.id](http://knb.kemdikbud.go.id)
+<br> _Tech stack_: NestJS, PrismaJS, NextJS, ChakraUI, React-Query
+<br> [knb.kemdikbud.go.id](http://knb.kemdikbud.go.id)
 
 ### <span>Robopem Apps and Websites</span> <span>2020</span>
 
 Android Based Interactive media that have various multimedia content helps students learn about Fuel Cell. The Robopem Websites is used for the teacher to monitor the learning activities of the student such a view the courses, manage the classroom member, and view the result of student quiz.
-
-Tech stack: NestJS, PrismaJS, NextJS, ChakraUI
-
-[robopem.com](https://robopem.com)
+<br> _Tech stack_: NestJS, PrismaJS, NextJS, ChakraUI
+<br> [robopem.com](https://robopem.com)
 
 ### <span>C2G E-Commerce</span> <span>2020</span>
 
 Online selling and buying platform with C2G (Client to Government) System. There are negotiation feature, payment system that integrated with Midtrans, discount system and stock management.
-
-Tech stack: VueJS, Laravel, InertiaJS
+<br> _Tech stack_: VueJS, Laravel, InertiaJS

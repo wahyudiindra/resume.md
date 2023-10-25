@@ -22,7 +22,14 @@ I am a Backend Engineer with more than 3 years of professional experience in des
 
 ## Experiences
 
-### <span>Backend Engineer, Glovory Technologies</span> <span>Maret 2022 - Present</span>
+### <span>Backend Engineer, PT. Docheck Bagi Indonesia</span> <span>July 2023 - Present</span>
+
+PT. Docheck Bagi Indonesia is a startup that focuses on todo-list applications and mental health.
+
+-   Designed and implemented ERD based on Product Requirement Document.
+-   Implemented backend business process while working closely with Head of Product, Project Manager, and Engineering Team.
+
+### <span>Backend Engineer, Glovory Technologies</span> <span>Maret 2022 - May 2023</span>
 
 Glovory Technologies is a end-to-end digital product agencies headquartered in Riyadh, Saudi Arabia.
 
@@ -47,37 +54,39 @@ Degetek Studio is a software company that focuses on delivering tech-based solut
 
 ## Projects
 
-### <span>Maxima Apps and Websites</span> <span>October 2022 - April 2023</span>
+### <span>Wool Websites</span> <span>July 2023 - Present</span>
+
+Wool (We Open Our Lives) Websites that focus on improving the mental health of Millennials and Generation Z.
+<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
+
+### <span>Maxima Apps and Websites</span> <span>October 2022 - Present</span>
 
 Laboratory Management System that makes it easy for patients to choose the type of examination or check up anytime and anywhere. This project must be in sync with existing desktop apps.
-<br> _Tech stack_: NestJS, PrismaJS, NextJS, Flutter
+<br> _Tech stack_: NestJS, PrismaJS, MariaDB
 
-### <span>Hotel Management System</span> <span>May 2022 - Present</span>
+### <span>Hotel Management System</span> <span>May 2022 - January 2023</span>
 
 Property Management System that assist hotel owners to manage units and reservation system, which aims to simplify administrative processes and helps officials to monitor the important details such as level of services improvement, increased revenue, and cost reduction.
-<br> _Tech stack_: NestJS, PrismaJS, Appwrite, NextJS
+<br> _Tech stack_: NestJS, PrismaJS, Appwrite, PostgreSQL, NoSQL
 
 ### <span>Ace Diary Apps</span> <span>2021</span>
 
 Android Based Counseling Application that assist Universitas Negeri Malang to facilitate Counseling Guideance for the student.
-<br> _Tech stack_: NestJS, PrismaJS, NextJS, ChakraUI, React-Query
-
-<br>
-<br>
+<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
 
 ### <span>Kemitraan Negara Berkembang Scholarship</span> <span>2020 - 2021</span>
 
 Popularly known as KNB Scholarship, is a program offered by the Indonesian Government to prospective international students coming from developing countries to pursue their master's degree in one of the Indonesian universities.
-<br> _Tech stack_: NestJS, PrismaJS, NextJS, ChakraUI, React-Query
+<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
 <br> [knb.kemdikbud.go.id](http://knb.kemdikbud.go.id)
 
 ### <span>Robopem Apps and Websites</span> <span>2020</span>
 
 Android Based Interactive media that have various multimedia content helps students learn about Fuel Cell. The Robopem Websites is used for the teacher to monitor the learning activities of the student such a view the courses, manage the classroom member, and view the result of student quiz.
-<br> _Tech stack_: NestJS, PrismaJS, NextJS, ChakraUI
+<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
 <br> [robopem.com](https://robopem.com)
 
 ### <span>C2G E-Commerce</span> <span>2020</span>
 
 Online selling and buying platform with C2G (Client to Government) System. There are negotiation feature, payment system that integrated with Midtrans, discount system and stock management.
-<br> _Tech stack_: VueJS, Laravel, InertiaJS
+<br> _Tech stack_: VueJS, Laravel, InertiaJS, MySQL

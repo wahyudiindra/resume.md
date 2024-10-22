@@ -1,3 +1,5 @@
+<br>
+
 # Wahyudi Indra Prakoso
 
 -   <wahyudiindraprakoso@gmail.com>
@@ -6,13 +8,13 @@
 -   [LinkedIn](https://www.linkedin.com/in/wahyudi-indra-prakoso)
 -   [Github](https://github.com/wahyudindra)
 
-I am a Backend Engineer with more than 3 years of professional experience in design system and implement backend business applications such as ERP, PMS, E-Commerce, and information system in general. I eager to learn new technologies and also have interested in end-to-end software development process.
+I am a Backend Engineer who is experienced in designing and implementing server-side applications (scalable and efficient) with more than 5 years professional experience. I eager to learn new technologies and has a deep interest in the end-to-end software development process.
 
 ## Skills
 
--   Languages: TypeScript, JavaScript, PHP, SQL, C++, Java
--   Technologies: NodeJS, NestJS, RESTful API, Docker, GraphQL, Laravel, React/Vue
--   Others: Git, PrismaJS, Firebase
+-   Languages: Typescript, Javascript, PHP, SQL, Java, C++
+-   Technologies: NodeJs, NestJs, RESTful API, Docker, GraphQL, Laravel, React/Vue
+-   Others: Git, PrismaJs, Microservices, Firebase, Payment Gateway
 
 ## Education
 
@@ -24,10 +26,12 @@ I am a Backend Engineer with more than 3 years of professional experience in des
 
 ### <span>Backend Engineer, PT. Docheck Bagi Indonesia</span> <span>July 2023 - Present</span>
 
-PT. Docheck Bagi Indonesia is a startup that focuses on todo-list applications and mental health.
+PT. Docheck Bagi Indonesia is a startup focused on a mental health platform, featuring services such as counseling (B2B and B2C), mock interview, resume review, job portal, and assessment test. I managed the entire backend (APIs for B2B and B2C) using restful API communication.
 
--   Designed and implemented ERD based on Product Requirement Document.
--   Implemented backend business process while working closely with Head of Product, Project Manager, and Engineering Team.
+-   Proposed a framework change from strapi.io (headless CMS) to NestJs (dependency injection and modularization). After the change, there was a 3x increase in engineering productivity, scalability, and maintainability.
+-   Designed and implemented ERD based on the Product Requirement Document.
+-   Implemented backend business processes while working closely with the Head of Product, Project Manager, and Engineering Team.
+-   Successfully delivered the product for the partnership with Pertamina batch 1, with a strong possibility of continued collaboration.
 
 ### <span>Backend Engineer, Glovory Technologies</span> <span>Maret 2022 - May 2023</span>
 
@@ -54,12 +58,12 @@ Degetek Studio is a software company that focuses on delivering tech-based solut
 
 ## Projects
 
-### <span>Wool Websites</span> <span>July 2023 - Present</span>
+### <span>Wool Websites ([wool.id](https://wool.id))</span> <span>July 2023 - Present</span>
 
 Wool (We Open Our Lives) Websites that focus on improving the mental health of Millennials and Generation Z.
-<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
+<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL, Midtrans, Twilio, Cloudinary, Firebase, Swagger
 
-### <span>Maxima Apps and Websites</span> <span>October 2022 - Present</span>
+### <span>Maxima Apps and Websites</span> <span>October 2022 - Sep 2023</span>
 
 Laboratory Management System that makes it easy for patients to choose the type of examination or check up anytime and anywhere. This project must be in sync with existing desktop apps.
 <br> _Tech stack_: NestJS, PrismaJS, MariaDB
@@ -74,17 +78,15 @@ Property Management System that assist hotel owners to manage units and reservat
 Android Based Counseling Application that assist Universitas Negeri Malang to facilitate Counseling Guideance for the student.
 <br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
 
-### <span>Kemitraan Negara Berkembang Scholarship</span> <span>2020 - 2021</span>
+### <span>Kemitraan Negara Berkembang Scholarship ([knb.kemdikbud.go.id](http://knb.kemdikbud.go.id))</span> <span>2020 - 2021</span>
 
 Popularly known as KNB Scholarship, is a program offered by the Indonesian Government to prospective international students coming from developing countries to pursue their master's degree in one of the Indonesian universities.
 <br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
-<br> [knb.kemdikbud.go.id](http://knb.kemdikbud.go.id)
 
-### <span>Robopem Apps and Websites</span> <span>2020</span>
+### <span>Robopem Apps and Websites ([robopem.com](https://robopem.com))</span> <span>2020</span>
 
 Android Based Interactive media that have various multimedia content helps students learn about Fuel Cell. The Robopem Websites is used for the teacher to monitor the learning activities of the student such a view the courses, manage the classroom member, and view the result of student quiz.
 <br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
-<br> [robopem.com](https://robopem.com)
 
 ### <span>C2G E-Commerce</span> <span>2020</span>
 

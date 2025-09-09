@@ -1,94 +1,92 @@
-<br>
-
 # Wahyudi Indra Prakoso
 
 -   <wahyudiindraprakoso@gmail.com>
 -   (+62) 822 5775 6543
 -   Malang, Indonesia
--   [LinkedIn](https://www.linkedin.com/in/wahyudi-indra-prakoso)
--   [Github](https://github.com/wahyudindra)
+-   <a href="https://www.linkedin.com/in/wahyudi-indra-prakoso"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" style="vertical-align:middle"/></a> <a href="https://github.com/wahyudiindra"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" style="vertical-align:middle"/></a>
 
-I am a Backend Engineer who is experienced in designing and implementing server-side applications (scalable and efficient) with more than 5 years professional experience. I eager to learn new technologies and has a deep interest in the end-to-end software development process.
+Backend Engineer with 5+ years of experience in building reliable and scalable backend systems. Skilled in backend migrations, database optimization, and microservices architecture. Adept at collaborating with cross-functional teams to deliver impactful software solutions. Passionate about clean code, automation, and driving engineering productivity to support business growth.
 
 ## Skills
 
--   Languages: Typescript, Javascript, PHP, SQL, Java, C++
--   Technologies: NodeJs, NestJs, RESTful API, Docker, GraphQL, Laravel, React/Vue
--   Others: Git, PrismaJs, Microservices, Firebase, Payment Gateway
+-   **Languages:** TypeScript, JavaScript, PHP, SQL, Java, C++
+-   **Technologies:** Node.js, NestJS, Prisma, Docker, Laravel, React, Vue.js
+-   **Databases:** PostgreSQL, MySQL, MariaDB, NoSQL
+-   **Others:** REST APIs, Payment Gateway, Firebase, Microservices, Swagger, Postman, GraphQL, Git
+
+---
 
 ## Education
 
-### <span>Universitas Negeri Malang, Indonesia</span> <span>2014 - 2018</span>
+### Universitas Negeri Malang, Indonesia _(2014 – 2018)_
 
--   Bachelor of Arts - BA, Informatics Education
+Bachelor of Arts in Informatics Education
+
+---
 
 ## Experiences
 
-### <span>Backend Engineer, PT. Docheck Bagi Indonesia</span> <span>July 2023 - Present</span>
+### Backend Engineer | PT. Docheck Bagi Indonesia _(July 2023 – September 2025)_
 
-PT. Docheck Bagi Indonesia is a startup focused on a mental health platform, featuring services such as counseling (B2B and B2C), mock interview, resume review, job portal, and assessment test. I managed the entire backend (APIs for B2B and B2C) using restful API communication.
+-   Proposed migration from Strapi (Headless CMS) to NestJS for improved scalability and maintainability.
+-   Established long-term technical foundation that reduced maintenance overhead and boosting engineering productivity by 3x.
+-   Designed database schemas (ERD) and implemented APIs for B2B & B2C services within a microservices architecture.
+-   Delivered Pertamina partnership project (Batch 1), unlocking continued collaboration.
 
--   Proposed a framework change from strapi.io (headless CMS) to NestJs (dependency injection and modularization). After the change, there was a 3x increase in engineering productivity, scalability, and maintainability.
--   Designed and implemented ERD based on the Product Requirement Document.
--   Implemented backend business processes while working closely with the Head of Product, Project Manager, and Engineering Team.
--   Successfully delivered the product for the partnership with Pertamina batch 1, with a strong possibility of continued collaboration.
+### Backend Engineer | Glovory Technologies _(March 2022 – May 2023)_
 
-### <span>Backend Engineer, Glovory Technologies</span> <span>Maret 2022 - May 2023</span>
+-   Defined timelines with PMs to ensure on-time project delivery.
+-   Maintained and optimized microservices deployment pipeline to ensure reliable releases.
+-   Conducted regular code reviews to enforce coding standards and improve overall code quality.
 
-Glovory Technologies is a end-to-end digital product agencies headquartered in Riyadh, Saudi Arabia.
+### Backend Engineer | Degetek Studio _(October 2019 – November 2021)_
 
--   Help PM for decide on timeline development for projects.
--   Implemented backend business process while working closely with Analyst and Engineering Team.
--   Review code from a other Backend Engineer.
--   Manage deployment microservices on server staging.
+-   Implemented backend business processes and optimized databases with Prisma.
+-   Wrote API documentation and supported frontend teams on integration.
+-   Collaborated closely with Tech Lead and PM to meet project deadlines.
 
-### <span>Backend Engineer, Degetek Studio</span> <span>Oct 2019 - Nov 2021</span>
+### Software Engineering Intern | Elecomp Software House _(May – August 2017)_
 
-Degetek Studio is a software company that focuses on delivering tech-based solutions for education and business.
+-   Built a company profile website using CodeIgniter.
+-   Migrated legacy desktop database systems to web-based platforms.
 
--   Implemented and improving ERD given by Tech Lead to the PostgreSQL using Prisma.
--   Implemented backend business process while working closely with Tech Lead, Frontend Engineer, and PM.
--   Created API documentation (Postman, Insomnia, and Rest client).
--   Help Frontend Engineer integrating the backend system.
-
-### <span>Internship, Elecomp Software House</span> <span>May - Aug 2017</span>
-
--   Develop a company profile using CodeIgniter.
--   Integrating the new platform (website) using the database on the old platform (desktop).
+---
 
 ## Projects
 
-### <span>Wool Websites ([wool.id](https://wool.id))</span> <span>July 2023 - Present</span>
+### <span>Wool Website</span> _(July 2023 - Present)_
 
-Wool (We Open Our Lives) Websites that focus on improving the mental health of Millennials and Generation Z.
-<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL, Midtrans, Twilio, Cloudinary, Firebase, Swagger
+Mental health platform (counseling, assessment, and resume review) for Millennials and Gen Z. ([wool.id](https://wool.id))  
+_Tech Stack:_ NestJS, Prisma, PostgreSQL, Midtrans, Twilio, Firebase
 
-### <span>Maxima Apps and Websites</span> <span>October 2022 - Sep 2023</span>
+### Maxima Apps & Website _(October 2022 – September 2023)_
 
-Laboratory Management System that makes it easy for patients to choose the type of examination or check up anytime and anywhere. This project must be in sync with existing desktop apps.
-<br> _Tech stack_: NestJS, PrismaJS, MariaDB
+Laboratory management system integrated with existing desktop apps for patient examination scheduling.  
+_Tech Stack:_ NestJS, Prisma, MariaDB
 
-### <span>Hotel Management System</span> <span>May 2022 - January 2023</span>
+### Hotel Management System _(May 2022 – January 2023)_
 
-Property Management System that assist hotel owners to manage units and reservation system, which aims to simplify administrative processes and helps officials to monitor the important details such as level of services improvement, increased revenue, and cost reduction.
-<br> _Tech stack_: NestJS, PrismaJS, Appwrite, PostgreSQL, NoSQL
+Property management system to handle reservations, revenue tracking, and service optimization.  
+_Tech Stack:_ NestJS, Prisma, Appwrite, PostgreSQL, NoSQL
 
-### <span>Ace Diary Apps</span> <span>2021</span>
+### Ace Diary Apps _(2021)_
 
-Android Based Counseling Application that assist Universitas Negeri Malang to facilitate Counseling Guideance for the student.
-<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
+Android counseling application for Universitas Negeri Malang to facilitate student guidance.  
+_Tech Stack:_ NestJS, Prisma, PostgreSQL
 
-### <span>Kemitraan Negara Berkembang Scholarship ([knb.kemdikbud.go.id](http://knb.kemdikbud.go.id))</span> <span>2020 - 2021</span>
+### KNB Scholarship _(2020 – 2021)_
 
-Popularly known as KNB Scholarship, is a program offered by the Indonesian Government to prospective international students coming from developing countries to pursue their master's degree in one of the Indonesian universities.
-<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
+Official government platform for international student scholarships. ([knb.kemdikbud.go.id](http://knb.kemdikbud.go.id))  
+_Tech Stack:_ NestJS, Prisma, PostgreSQL
 
-### <span>Robopem Apps and Websites ([robopem.com](https://robopem.com))</span> <span>2020</span>
+### Robopem Apps & Website _(2020)_
 
-Android Based Interactive media that have various multimedia content helps students learn about Fuel Cell. The Robopem Websites is used for the teacher to monitor the learning activities of the student such a view the courses, manage the classroom member, and view the result of student quiz.
-<br> _Tech stack_: NestJS, PrismaJS, PostgreSQL
+Interactive learning media for fuel cell education, used by teachers to track student activities. ([robopem.com](https://robopem.com))  
+_Tech Stack:_ NestJS, Prisma, PostgreSQL
 
-### <span>C2G E-Commerce</span> <span>2020</span>
+### C2G E-Commerce _(2020)_
 
-Online selling and buying platform with C2G (Client to Government) System. There are negotiation feature, payment system that integrated with Midtrans, discount system and stock management.
-<br> _Tech stack_: VueJS, Laravel, InertiaJS, MySQL
+Client-to-Government e-commerce platform with integrated payments, discounts, and stock management.  
+_Tech Stack:_ Laravel, Vue.js, Inertia.js, MySQL
+
+---

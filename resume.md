@@ -10,7 +10,7 @@ Backend Engineer with 5+ years of experience in building reliable and scalable b
 ## Skills
 
 -   **Languages:** TypeScript, JavaScript, PHP, SQL, Java, C++
--   **Technologies:** Node.js, NestJS, Prisma, Docker, Laravel, React, Vue.js
+-   **Technologies:** Node.js, NestJS, Prisma, Docker, Redis, Laravel, React, Vue.js
 -   **Databases:** PostgreSQL, MySQL, MariaDB, NoSQL
 -   **Others:** REST APIs, Payment Gateway, Firebase, Microservices, Swagger, Postman, GraphQL, Git
 
@@ -31,11 +31,11 @@ Bachelor of Arts in Informatics Education
 -   Proposed migration from Strapi (Headless CMS) to NestJS for improved scalability and maintainability.
 -   Established long-term technical foundation that reduced maintenance overhead and boosting engineering productivity by 3x.
 -   Designed database schemas (ERD) and implemented APIs for B2B & B2C services within a microservices architecture.
--   Delivered Pertamina partnership project (Batch 1), unlocking continued collaboration.
+-   Delivered Pertamina partnership project (Batch 1) successfully, leading to ongoing collaboration.
 
 ### Backend Engineer | Glovory Technologies _(March 2022 – May 2023)_
 
--   Defined timelines with PMs to ensure on-time project delivery.
+-   Collaborated with PMs to define sprint timelines ensuring 95% on-time delivery rate.
 -   Maintained and optimized microservices deployment pipeline to ensure reliable releases.
 -   Conducted regular code reviews to enforce coding standards and improve overall code quality.
 
@@ -43,18 +43,13 @@ Bachelor of Arts in Informatics Education
 
 -   Implemented backend business processes and optimized databases with Prisma.
 -   Wrote API documentation and supported frontend teams on integration.
--   Collaborated closely with Tech Lead and PM to meet project deadlines.
-
-### Software Engineering Intern | Elecomp Software House _(May – August 2017)_
-
--   Built a company profile website using CodeIgniter.
--   Migrated legacy desktop database systems to web-based platforms.
+-   Coordinated with Tech Lead and PM to meet project deadlines.
 
 ---
 
 ## Projects
 
-### <span>Wool Website</span> _(July 2023 - Present)_
+### <span>Wool Website</span> _(July 2023 – September 2025)_
 
 Mental health platform (counseling, assessment, and resume review) for Millennials and Gen Z. ([wool.id](https://wool.id))  
 _Tech Stack:_ NestJS, Prisma, PostgreSQL, Midtrans, Twilio, Firebase

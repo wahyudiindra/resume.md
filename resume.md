@@ -9,9 +9,10 @@ Backend Engineer with 5+ years of experience in building reliable and scalable b
 
 ## Skills
 
--   **Languages:** TypeScript, JavaScript, PHP, SQL, Java, C++
--   **Technologies:** Node.js, NestJS, Prisma, Docker, Redis, Laravel, React, Vue.js
+-   **Languages:** TypeScript, JavaScript, PHP, Golang, SQL, Java, C++
+-   **Technologies:** Node.js, NestJS, Prisma, Laravel, React, Vue.js
 -   **Databases:** PostgreSQL, MySQL, MariaDB, NoSQL
+-   **Infrastructure**: Docker, Redis, WebSocket, Load Balancing, RabbitMQ
 -   **Others:** REST APIs, Payment Gateway, Firebase, Microservices, Swagger, Postman, GraphQL, Git
 
 ---
